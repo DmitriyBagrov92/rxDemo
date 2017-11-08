@@ -1,0 +1,1 @@
+Репозиторий для тренингов [Networking training 2](https://gitlab.noveogroup.com/KnowledgeBase/iOS/blob/master/Trainings/Level_1/Networking_2/Networking_2.md), [Rx Networking](https://gitlab.noveogroup.com/KnowledgeBase/iOS/blob/master/Trainings/Level_3/Rx/Rx_1/Rx_1.md)
